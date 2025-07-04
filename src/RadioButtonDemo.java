@@ -2,10 +2,10 @@
 // It displays the selected pet's image and shows a message box with the selection.
 
 /*
-Name : Craig Nginga  
-Reg No: BSE-05-0209/2024  
-Group : 3  
-Github username: Craig631
+Name : Victor Chirchir  
+Reg No: BSE-05-0055/2024 
+Group : 2 
+Github username: Vict-0055
 */
 
 import javax.swing.*;
