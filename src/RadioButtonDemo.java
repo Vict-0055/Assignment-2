@@ -1,5 +1,3 @@
-// A Java GUI program that uses radio buttons to let users select a pet.
-// It displays the selected pet's image and shows a message box with the selection.
 
 /*
 Name : Victor Chirchir  
